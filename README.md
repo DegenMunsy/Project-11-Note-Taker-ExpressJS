@@ -4,7 +4,7 @@ This application was designed to track your notes for you.
 
 
 ## Usage
-I don't have time to do a video or make the html file before submission to get above a 0.
+This app should load and allow you to add and view notes on the page.
 
 # Contact
 https://github.com/DegenMunsy/
